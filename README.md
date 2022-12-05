@@ -8,4 +8,4 @@ this project was a part of [neogcamp's level-zero](https://www.youtube.com/playl
 
 Project Link - https://3tq10.csb.app/
 
-Created with CodeSandbox - https://codesandbox.io/s/github/horsemaker/emoji-interpreter
+Created with CodeSandbox - https://codesandbox.io/s/zen-lalande-q3v8zq?file=/src/App.js

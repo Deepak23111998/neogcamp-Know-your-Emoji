@@ -24,7 +24,7 @@ export default function App() {
     var meaning = emojiDictionary[event.target.value];
 
     if (meaning === undefined) {
-      meaning = "errrrrrrrrr!😖";
+      meaning = "err!😖";
     }
 
     setMeaning(meaning); // react call to show output
